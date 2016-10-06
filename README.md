@@ -1,4 +1,7 @@
 # VVS
+
+[![Build Status](https://travis-ci.org/AlejandroPeralTaboada/VVS.svg?branch=master)](https://travis-ci.org/AlejandroPeralTaboada/VVS)
+
 Responsables: Alejandro Peral Taboada y Sergio Costa García
 
 Descripcion: Unha aplicación de gestión de piscinas.

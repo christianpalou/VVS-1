@@ -1,10 +1,10 @@
 # MabuRestaurant
 [![N|Solid](http://mabu.es/assets/mabu.svg)](https://nodesource.com/products/nsolid)
-Mabu Restaurant es una herramienta completa que gestiona la imagen comercial de tu restaurante en internet. En contraposición con las soluciones actuales se centra en potenciar y diferenciar tu marca frente a la competencia.
+Mabu Restaurant is a complete tool that manages the commercial image of your restaurant franchise on the internet. In contrast to the current solutions focuses on boosting and differentiate your brand against the competition.
 
-  - Recibe tus pedidos online
-  - Gestiona múltiples canales
-  - Fácil sistema  de reservas
+  - Receive your orders online
+  - Manage multiple channels
+  - Easy reservation system
 
 ## Tech
 Mabu Restaurant uses:

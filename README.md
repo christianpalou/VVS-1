@@ -13,7 +13,7 @@ Mabu Restaurant uses:
 * [HTML5](https://www.w3schools.com/html/html5_intro.asp)
 * [CSS3](https://www.w3schools.com/css/css3_intro.asp)
 * [Java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
-* [Spring Boot 8](https://projects.spring.io/spring-boot/)
+* [Spring Boot](https://projects.spring.io/spring-boot/)
 
 
 ## Installation
